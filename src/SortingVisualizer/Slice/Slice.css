@@ -1,0 +1,13 @@
+.slice {
+  width: 10px;
+  height: 200px;
+  outline: 1px solid black;
+  display: bloick;
+}
+
+.red {
+  background-color: red;
+}
+.rgb100200100 {
+  background-color: rgb(100, 200, 100);
+}
